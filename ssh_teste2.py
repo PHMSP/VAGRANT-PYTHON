@@ -66,7 +66,7 @@ for comand in commands_mysql:
     if err:
         print(err)
 
-# INSTALANDO JAVA
+# INSTALANDO REDIS
 
 for comand in commands_redis:
     print(f"{'#'*10} Excecuting the Command : {comand} {'#'*10}")
